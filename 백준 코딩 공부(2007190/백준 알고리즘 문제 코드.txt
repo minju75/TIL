@@ -1,0 +1,168 @@
+백준 스터디 <1001>번
+a, b = input().split()
+a = int(a)
+b = int(b)
+print(a-b)
+
+단계별 문제풀기<10172번>
+print('|\\_/|')
+print('|q p|   /}')
+print('( 0 )\"\"\"\\')
+print('|\"^\"`    |')
+print('||_/=\\\\__|')
+
+
+단계별 문제풀기<10869번>
+a,b=map(int,input().split())
+print(a+b,a-b,a*b,a//b,a%b)
+
+단계별 문제풀기<10430번>
+A,B,C=map(int,input().split())
+print((A+B)%C)
+print(((A%C)+(B%C))%C)
+print((A*B)%C)
+print(((A%C)*(B%C))%C)
+
+단계별 문제풀기<2588번>
+A = input()
+B = input()
+A = int(A)
+B = int(B)
+C = B%10
+D = B%100
+print(A*C)
+print(int(A*(D-C)/10))
+print(int(A*(B-D)/100))
+print(A*B)
+
+
+
+단계별 문제풀기<1330번>
+A,B=map(int,input().split())
+if A>B :
+    print('>')
+elif A<B :
+    print('<')
+else :
+    print('==')
+
+단계별 문제풀기<9498번>
+greeting=int(input())
+if 90<greeting : 
+    print('A')
+elif 89<greeting : 
+    print('B')
+elif 79<greeting : 
+    print('C')
+elif 59<greeting : 
+    print('D')
+else : 
+    print('F')
+
+단계별 문제풀기 <2753번>
+b=input()
+a=int(b)
+if (a%4) == 0 and (a%100) != 0 : 
+    print('1')
+elif (a%400) == 0 : 
+    print('1')
+else : 
+    print('0')
+
+단계별 문제풀기 <2753번>
+x=int(input())
+y=int(input())
+if x>0 and y>0 :
+    print('1')
+elif x<0 and y>0 :
+    print('2')
+elif x<0 and y<0 :
+    print('3')
+elif x>0 and y<0 : 
+    print('4')
+
+단계별 문제풀기 <2884번>
+h,m = map(int,input().split())
+if m>=45 :
+    print(f"{h} {m-45}")
+else :
+    if h==0:
+        h=23
+    else:
+        h=h-1
+    print(f'{h} {m+15}')
+
+단계별 문제풀기 <2739번>
+a=int(input())
+for i in range(1,10) :
+    print(a, '*', i, "=", a*1)
+
+단계별 문제풀기 <10950번>
+num = int(input())
+
+for i in range(num) : 
+    a,b = input().split()
+    print(int(a)+int(b))
+
+단계별 문제풀기 <8393번>
+n=int(input())
+sum = 0
+for i in range(1,n+1) : 
+    sum=sum+i
+    
+print(sum)
+
+단계별 문제풀기 <15552번>
+num = int(input())
+for i in range(num) : 
+    a,b = int,input().split()
+
+단계별 문제풀기 <2741번>
+n = int(input())
+for i in range(1,n+1) :
+    print(i)
+
+단계별 문제풀기 <15552번>
+import sys
+t=int(sys.stdin.readline())
+for i in range(t) : 
+    a,b = map(int,sys.stdin.readline().split())
+    print(a+b)
+
+단계별 문제풀기 <2742번>
+n = int(input())
+for i in range(n,0) : 
+    print(i)
+
+단계별 문제풀기 <11021번>
+num=int(input())
+
+for i in range(1,num+1) : 
+    a,b=map(int,input().split())
+    print(f"Case #{i}: {a+b}")
+
+단계별 문제풀기<11022번>
+num=int(input())
+
+for i in range(1,num+1) : 
+    a,b=map(int,input().split())
+    c = a+b
+    print(f"Case #{i}: {a} + {b} = {c}")
+
+단계별 문제풀기<2438번>
+a=int(input())
+for i in range(1,a+1) : 
+    print('*' * i)
+
+단계별 문제풀기<2439번>
+a=int(input())
+for i in range(1,a+1) : 
+    print(' '*(a-i), end='') 
+    print('*' * i)
+
+단계별 문제풀기<10871번>
+n, num = map(int,input().split())
+x = list(map(int, input().split()))
+for i in range(n):
+    if((x[i]) < num):
+        print(f"{x[i]} ", end='')
