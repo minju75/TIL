@@ -10,14 +10,14 @@
 
 ```python
 total = 0
-for i in range(5):
+for j in range(5):
     i = int(input())
     if i < 40:
         total += 40
     else :
         total += i
   
-print(int(total/5))  
+print(int(total/5))
 ```
 
 
@@ -36,9 +36,13 @@ drink = []
 for i in range(0, 3):
     b = int(input())
     burger.append(b)
-for i in range(0, -2):
+for i in range(0, -2, -1):
     d = int(input())
     drink.append(d)
 print(min(burger) + min(drink) - 50)
 ```
+
+
+
+
 
