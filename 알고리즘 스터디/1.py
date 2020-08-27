@@ -1,18 +1,52 @@
-for i in range(1):
+import copy
+t = 10
+for tc in range(1, t+1):
     n = int(input())
     m = 100
     a  = [list(map(int,input().split())) for _ in range(m)]
-    y = a[n-1].index(2)
-    cnt = 0
-    mov = 0
-    while (n-1) > 0:
-        if (move==0 or move==1) and y>0 and a[n-1][y-1]:
-            y -= 1
-            move = 1
-        elif (move==0 or move==2) and y<n-1 and a[n-1][y-1]:
-            y += 1
-            move = 2
-        else : 
-            (n-1) -= 1
-            move = 0
-    print('#%d %d' %(i, y))
+    a.append([])
+    for i in range(m):
+        a[i].append(0)
+
+    s = []
+    for i in range(m):
+        if ladder[0][i] == 1:
+            s.append(i)
+
+    x = 0
+    y = 0
+    count = 0
+    result = 1000
+    result2 = 100
+    ladder_2 = []
+    for i in s:
+        y = i
+        x = 0
+        count = 0
+        ladder_2 = copy.deepcopy(ladder)
+        while x < 100:
+            if ladder_2[x][y+1] == 1:
+                ladder_2[x][y+1] = 0
+                y += 1
+                count += 1
+
+            elif ladder_2[x][y-1] == 1:
+                ladder_2[x][y-1] = 0
+                y -= 1
+                count += 1
+
+            elif ladder_2[x+1][y] == 1:
+                ladder_2[x+1][y] = 0
+                x += 1
+                count += 1
+
+            if x == 99:
+                if result > count:
+                    result = count
+                    result2 = i
+                elif result == count:
+                    if result2 < i :
+                        result2 == i
+                break
+	
+    print('#%d %d' %(tc, result2))

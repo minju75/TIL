@@ -1,22 +1,30 @@
-for tc in range(10):
-    tc = int(input())
-    n = 100
-    a, z = [], ['' for i in range(100)]
-    result = 1
-    for i in range(n): # 가로줄
-        b = input()
-        a.append(b)
-        # 세로줄
-        for j in range(n):
-            z[j] += b[j]
+t = int(input())
+for tc in range(1, t+1):
+    v, e = map(int,input().split())
+    ta = [([0]*(v+1)) for _ in range(v+1)]
+    n = [list(map(int,input().split())) for _ in range(e)]
+    for j in n:
+        ta[j[0]][j[1]] = 1
+    q, e = map(int,input().split())
+    m = []
+    while True :
+        if 1 in ta[q]: 
+            k = ta[q].index(1)
+            ta[q][k] = 0
+            m.append(q)
+            q = k
+            if k == e : 
+                result = 1
+                break
         
-    for i in range(n):
-        for m in range(n) :
-            for k in range(n-m):
-                if a[i][k:m+k+1] == a[i][m+k]+a[i][k:m+k][::-1]:
-                    if m+1 > result:
-                        result = m+1
-                if z[i][k:m+k+1] == z[i][m+k]+z[i][k:m+k][::-1]:
-                    if m+1 > result:
-                        result = m+1
-    print("#%d %d" %(tc, result))
+        else:
+            if m == []:
+                result = 0
+                break
+            else : 
+                q = m.pop(0)
+
+    print('#%d %d' %(tc, result))
+
+
+
