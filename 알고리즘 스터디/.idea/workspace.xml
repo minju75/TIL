@@ -20,14 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f6f794-0f69-4727-82f1-19c78bf959c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boj1259.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ladder1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea0803.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea회문2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ladder2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea0804.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea200806.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0829 월말평가(알고리즘) 연습 코드.md" beforeDir="false" afterPath="$PROJECT_DIR$/0829 월말평가(알고리즘) 연습 코드.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swea 1954.py" beforeDir="false" afterPath="$PROJECT_DIR$/swea 1954.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ladder1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ladder1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +55,8 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.swea0803">
-    <configuration name="스도쿠검증" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ladder2">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘 스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/스도쿠검증.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sw.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ladder2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘 스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ladder2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea0803" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swea0804" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘 스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +131,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea0803.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea0804.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swea200806" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘 스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea200806.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,10 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.swea0803" />
+        <item itemvalue="Python.ladder2" />
         <item itemvalue="Python.ladder1" />
-        <item itemvalue="Python.스도쿠검증" />
-        <item itemvalue="Python.sw.py" />
+        <item itemvalue="Python.swea200806" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.swea0804" />
       </list>
     </recent_temporary>
   </component>
@@ -187,22 +208,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="0" key="#스도쿠검증/0.0.1366.728@0.0.1366.728" timestamp="1598587081706" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1598803528676">
+    <state width="765" height="179" key="GridCell.Tab.0.bottom" timestamp="1598842579963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598803528676" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1598803528676">
+    <state width="765" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598842579963" />
+    <state width="765" height="179" key="GridCell.Tab.0.center" timestamp="1598842579963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598803528676" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1598803528676">
+    <state width="765" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598842579963" />
+    <state width="765" height="179" key="GridCell.Tab.0.left" timestamp="1598842579963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598803528676" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1598803528676">
+    <state width="765" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598842579963" />
+    <state width="765" height="179" key="GridCell.Tab.0.right" timestamp="1598842579963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598803528676" />
+    <state width="765" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598842579963" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1598587633853">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
