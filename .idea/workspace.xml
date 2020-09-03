@@ -20,20 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b2750bd-24af-4957-abc4-91ee5ae31a5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/algo_구미_1반_천민주.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/ladder2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea0804.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea200806.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea4874.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea4875.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea4880.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea 5097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea5099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea5102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘 스터디/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘 스터디/0829 월말평가(알고리즘) 연습 코드.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/0829 월말평가(알고리즘) 연습 코드.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘 스터디/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘 스터디/boj1259.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/boj1259.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘 스터디/ladder1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/ladder1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준 코딩 공부(2007190/boj12605.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 코딩 공부(2007190/boj12605.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 스터디/swea5105.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/swea5105.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +52,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.car">
-    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="swea 5097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea 5097.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea4874 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swea5099" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea4874.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea5099.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea4874" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swea5102" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\알고리즘 스터디\swea4874.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea5102.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea4875" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swea5105" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea4875.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea5105.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea4880" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea4880.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.car" />
-        <item itemvalue="Python.swea4875" />
-        <item itemvalue="Python.swea4880" />
-        <item itemvalue="Python.swea4874 (1)" />
-        <item itemvalue="Python.swea4874" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.swea5099" />
+        <item itemvalue="Python.swea5102" />
+        <item itemvalue="Python.swea 5097" />
+        <item itemvalue="Python.swea5105" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +258,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="123" y="0" key="#swea4880/0.0.1366.728@0.0.1366.728" timestamp="1598955224545" />
+    <state x="123" y="0" key="#swea4881" timestamp="1599023946042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="123" y="0" key="#swea4881/0.0.1366.728@0.0.1366.728" timestamp="1599023946042" />
+    <state x="389" y="0" key="#swea5099" timestamp="1599141417047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="#swea5099/0.0.1366.728@0.0.1366.728" timestamp="1599141417047" />
+    <state x="389" y="0" key="#swea5102" timestamp="1599114464005">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="#swea5102/0.0.1366.728@0.0.1366.728" timestamp="1599114464005" />
+    <state x="741" y="0" key="#swea5105" timestamp="1599108909159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="741" y="0" key="#swea5105/0.0.1366.728@0.0.1366.728" timestamp="1599108909159" />
     <state x="675" y="0" key="#swea_1954" timestamp="1598714411225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -281,42 +290,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="731" y="0" key="#swea_4843/0.0.1366.728@0.0.1366.728" timestamp="1598701800566" />
+    <state x="389" y="0" key="#swea_5097" timestamp="1599111758446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="#swea_5097/0.0.1366.728@0.0.1366.728" timestamp="1599111758446" />
     <state x="684" y="0" key="#swea회문2" timestamp="1598721930342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="684" y="0" key="#swea회문2/0.0.1366.728@0.0.1366.728" timestamp="1598721930342" />
-    <state width="1345" height="91" key="GridCell.Tab.0.bottom" timestamp="1598972906893">
+    <state x="389" y="0" key="#test" timestamp="1599109631246">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="91" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598972906893" />
-    <state width="1345" height="91" key="GridCell.Tab.0.center" timestamp="1598972906893">
+    <state x="389" y="0" key="#test/0.0.1366.728@0.0.1366.728" timestamp="1599109631246" />
+    <state width="604" height="188" key="GridCell.Tab.0.bottom" timestamp="1599148589938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="91" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598972906893" />
-    <state width="1345" height="91" key="GridCell.Tab.0.left" timestamp="1598972906893">
+    <state width="604" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599148589938" />
+    <state width="604" height="188" key="GridCell.Tab.0.center" timestamp="1599148589938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="91" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598972906893" />
-    <state width="1345" height="91" key="GridCell.Tab.0.right" timestamp="1598972906893">
+    <state width="604" height="188" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599148589938" />
+    <state width="604" height="188" key="GridCell.Tab.0.left" timestamp="1599148589938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="91" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598972906893" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1598629374322">
+    <state width="604" height="188" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599148589938" />
+    <state width="604" height="188" key="GridCell.Tab.0.right" timestamp="1599148589938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598629374322" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1598629374322">
+    <state width="604" height="188" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599148589938" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1599148588481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598629374322" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1598629374322">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599148588481" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1599148588480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598629374322" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1598629374322">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599148588480" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1599148588480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598629374322" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599148588480" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1599148588481">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599148588481" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -330,6 +347,65 @@
           <url>file://$PROJECT_DIR$/알고리즘 스터디/swea4615.py</url>
           <line>11</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5102.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
