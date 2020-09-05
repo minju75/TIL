@@ -20,13 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b2750bd-24af-4957-abc4-91ee5ae31a5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea 5097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea5099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea5102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/TEST_CODE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea2819.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/러시아국기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 코딩 공부(2007190/boj12605.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 코딩 공부(2007190/boj12605.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘 스터디/swea5105.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/swea5105.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 스터디/swea5099.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/swea5099.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 스터디/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager" selected="Python.test">
-    <configuration name="swea 5097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TEST_CODE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +66,28 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea 5097.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/TEST_CODE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swea2819" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알고리즘 스터디" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea2819.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,48 +117,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea5102" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알고리즘 스터디" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea5102.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea5105" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알고리즘 스터디" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea5105.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,13 +138,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알고리즘 스터디" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.swea2819" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.TEST_CODE" />
         <item itemvalue="Python.swea5099" />
-        <item itemvalue="Python.swea5102" />
-        <item itemvalue="Python.swea 5097" />
-        <item itemvalue="Python.swea5105" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +195,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="389" y="0" key="#TEST_CODE" timestamp="1599208767618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="#TEST_CODE/0.0.1366.728@0.0.1366.728" timestamp="1599208767618" />
     <state x="389" y="0" key="#algo_구미_1반_천민주" timestamp="1598846773308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -222,6 +227,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="670" y="0" key="#swea1971_(1)/0.0.1366.728@0.0.1366.728" timestamp="1598589851095" />
+    <state x="738" y="0" key="#swea2819" timestamp="1599212935143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="738" y="0" key="#swea2819/0.0.1366.728@0.0.1366.728" timestamp="1599212935143" />
     <state x="389" y="0" key="#swea4615" timestamp="1598611650212">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -302,38 +311,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="0" key="#test/0.0.1366.728@0.0.1366.728" timestamp="1599109631246" />
-    <state width="604" height="188" key="GridCell.Tab.0.bottom" timestamp="1599148589938">
+    <state x="738" y="0" key="#test2" timestamp="1599198122155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="604" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599148589938" />
-    <state width="604" height="188" key="GridCell.Tab.0.center" timestamp="1599148589938">
+    <state x="738" y="0" key="#test2/0.0.1366.728@0.0.1366.728" timestamp="1599198122155" />
+    <state width="1345" height="190" key="GridCell.Tab.0.bottom" timestamp="1599216423508">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="604" height="188" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599148589938" />
-    <state width="604" height="188" key="GridCell.Tab.0.left" timestamp="1599148589938">
+    <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599216423508" />
+    <state width="1345" height="190" key="GridCell.Tab.0.center" timestamp="1599216423508">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="604" height="188" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599148589938" />
-    <state width="604" height="188" key="GridCell.Tab.0.right" timestamp="1599148589938">
+    <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599216423508" />
+    <state width="1345" height="190" key="GridCell.Tab.0.left" timestamp="1599216423507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="604" height="188" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599148589938" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1599148588481">
+    <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599216423507" />
+    <state width="1345" height="190" key="GridCell.Tab.0.right" timestamp="1599216423508">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599148588481" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1599148588480">
+    <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599216423508" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1599203949374">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599148588480" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1599148588480">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599203949374" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1599203949374">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599148588480" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1599148588481">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599203949374" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1599203949374">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599148588481" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599203949374" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1599203949374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599203949374" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599205804799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599205804799" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -407,7 +424,59 @@
           <line>14</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5099.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5099.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5099.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5099.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5099.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5099.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5099.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5099.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/알고리즘 스터디/swea5099.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
