@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b2750bd-24af-4957-abc4-91ee5ae31a5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/TEST_CODE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/contact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/swea2819.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/러시아국기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고리즘 스터디/boj3187.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘 스터디/swea5099.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/swea5099.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/알고리즘 스터디/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 스터디/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +70,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="boj3187" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알고리즘 스터디" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/boj3187.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="swea2819" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,27 +104,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea2819.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea5099" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알고리즘 스터디" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘 스터디/swea5099.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,10 +157,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.boj3187" />
         <item itemvalue="Python.swea2819" />
         <item itemvalue="Python.test2" />
         <item itemvalue="Python.TEST_CODE" />
-        <item itemvalue="Python.swea5099" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +206,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="569" y="0" key="#boj1259/0.0.1366.728@0.0.1366.728" timestamp="1598775132200" />
+    <state x="738" y="0" key="#boj3187" timestamp="1599302382108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="738" y="0" key="#boj3187/0.0.1366.728@0.0.1366.728" timestamp="1599302382108" />
     <state x="389" y="0" key="#car" timestamp="1598971530384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -315,38 +314,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="738" y="0" key="#test2/0.0.1366.728@0.0.1366.728" timestamp="1599198122155" />
-    <state width="1345" height="190" key="GridCell.Tab.0.bottom" timestamp="1599216423508">
+    <state width="604" height="190" key="GridCell.Tab.0.bottom" timestamp="1599324418341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599216423508" />
-    <state width="1345" height="190" key="GridCell.Tab.0.center" timestamp="1599216423508">
+    <state width="604" height="190" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599324418341" />
+    <state width="604" height="190" key="GridCell.Tab.0.center" timestamp="1599324418341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599216423508" />
-    <state width="1345" height="190" key="GridCell.Tab.0.left" timestamp="1599216423507">
+    <state width="604" height="190" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599324418341" />
+    <state width="604" height="190" key="GridCell.Tab.0.left" timestamp="1599324418340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599216423507" />
-    <state width="1345" height="190" key="GridCell.Tab.0.right" timestamp="1599216423508">
+    <state width="604" height="190" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599324418340" />
+    <state width="604" height="190" key="GridCell.Tab.0.right" timestamp="1599324418341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599216423508" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1599203949374">
+    <state width="604" height="190" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599324418341" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1599324418313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599203949374" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1599203949374">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599324418313" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1599324418313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599203949374" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1599203949374">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599324418313" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1599324418313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599203949374" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1599203949374">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599324418313" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1599324418313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599203949374" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599324418313" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599205804799">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
