@@ -1,0 +1,48 @@
+class BinaryTree:
+    def __init__(self,a):   # a : 트리의 높이
+        self.tree = [-1] * 100 # pow는 제곱
+
+    # 부모 노드, 자식노드 정보를 가지고 insert
+    def insert(self, parent, child):
+        # tree안에 부모가 없으면, 루트
+        if parent not in self.tree:
+            self.tree[1] = parent
+            self.tree[2] = child
+        else:  # 부모가 이미 트리 안에 있음
+            # 자식은 어디다? 부모노드의 인덱스 * 2 또는 *2 +1
+            p_idx = self.tree.index(parent)
+            if self.tree[p_idx * 2] == -1:
+                self.tree[p_idx * 2] = child
+            else:
+                self.tree[p_idx * 2 + 1] = child
+
+    def in_order(self, idx):
+        if idx >= len(self.tree):
+            return
+        if self.tree[idx] != -1:
+            # 왼쪽
+            self.in_order(idx * 2)
+            # 부모
+            print(node[self.tree[idx] - 1][1], end="")
+            # 오른쪽
+            self.in_order(idx * 2 + 1)
+
+for tc in range(1, 11):
+    n = int(input())
+    a = n//2
+    my_tree = BinaryTree(a)
+    node = [list(map(str,input().split())) for _ in range(n)]
+    for i in range(n):
+        if len(node[i]) == 4:
+            for j in range(2):
+                parent = int(node[i][0])
+                child = int(node[i][2+j])
+                my_tree.insert(parent, child)
+        elif len(node[i]) == 3:
+            parent = int(node[i][0])
+            child = int(node[i][2])
+            my_tree.insert(parent, child)
+
+    print('#%d'%tc, end=" ")
+    my_tree.in_order(1)
+    print()
