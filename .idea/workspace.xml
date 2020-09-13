@@ -20,10 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b2750bd-24af-4957-abc4-91ee5ae31a5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/boj1012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/swea1248.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/swea3752.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/8월월말2번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/boj16956.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/boj1913(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/boj1913.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/boj5556.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/jungol1337.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/파이썬 코드/boj1012.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/파이썬 코드/boj1012.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +55,48 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager" selected="Python.boj1012">
+    <configuration name="인풋" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/인풋.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8월월말2번" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/8월월말2번.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="boj1012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,9 +104,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/boj1012.py" />
@@ -71,19 +118,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj2167" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boj16956" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/boj2167.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/boj16956.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,61 +139,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea1232" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="jungol1337" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/swea1232.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea1248" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/swea1248.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea3752" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/swea3752.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/jungol1337.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,10 +163,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.boj1012" />
-        <item itemvalue="Python.swea1248" />
-        <item itemvalue="Python.swea3752" />
-        <item itemvalue="Python.swea1232" />
-        <item itemvalue="Python.boj2167" />
+        <item itemvalue="Python.8월월말2번" />
+        <item itemvalue="Python.인풋" />
+        <item itemvalue="Python.boj16956" />
+        <item itemvalue="Python.jungol1337" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +240,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="738" y="0" key="#boj1546/0.0.1366.728@0.0.1366.728" timestamp="1599670493225" />
+    <state x="750" y="0" key="#boj16956" timestamp="1599927977407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="750" y="0" key="#boj16956/0.0.1366.728@0.0.1366.728" timestamp="1599927977406" />
+    <state x="723" y="0" key="#boj1913" timestamp="1599980923751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="664" y="0" key="#boj1913(2)" timestamp="1599987297342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="664" y="0" key="#boj1913(2)/0.0.1366.728@0.0.1366.728" timestamp="1599987297342" />
+    <state x="723" y="0" key="#boj1913/0.0.1366.728@0.0.1366.728" timestamp="1599980923751" />
     <state x="389" y="0" key="#boj2167" timestamp="1599747294461">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -255,6 +272,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="738" y="0" key="#boj4344/0.0.1366.728@0.0.1366.728" timestamp="1599665310133" />
+    <state x="750" y="0" key="#boj5556" timestamp="1599972393651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="750" y="0" key="#boj5556/0.0.1366.728@0.0.1366.728" timestamp="1599972393651" />
     <state x="738" y="0" key="#boj8958" timestamp="1599399903605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -435,54 +456,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="738" y="0" key="#파이썬삼각함수/0.0.1366.728@0.0.1366.728" timestamp="1599378410275" />
-    <state width="604" height="164" key="GridCell.Tab.0.bottom" timestamp="1599926633842">
+    <state width="604" height="166" key="GridCell.Tab.0.bottom" timestamp="1600010992595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="604" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926633842" />
-    <state width="604" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599919340728" />
-    <state width="604" height="164" key="GridCell.Tab.0.center" timestamp="1599926633841">
+    <state width="604" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926888649" />
+    <state width="604" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600010992595" />
+    <state width="604" height="166" key="GridCell.Tab.0.center" timestamp="1600010992594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="604" height="164" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926633841" />
-    <state width="604" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599919340728" />
-    <state width="604" height="164" key="GridCell.Tab.0.left" timestamp="1599926633841">
+    <state width="604" height="164" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926888649" />
+    <state width="604" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600010992594" />
+    <state width="604" height="166" key="GridCell.Tab.0.left" timestamp="1600010992594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="604" height="164" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926633841" />
-    <state width="604" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599919340727" />
-    <state width="604" height="164" key="GridCell.Tab.0.right" timestamp="1599926633842">
+    <state width="604" height="164" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926888649" />
+    <state width="604" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600010992594" />
+    <state width="604" height="166" key="GridCell.Tab.0.right" timestamp="1600010992594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="604" height="164" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926633842" />
-    <state width="604" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599919340728" />
-    <state width="604" height="218" key="GridCell.Tab.1.bottom" timestamp="1599926283751">
+    <state width="604" height="164" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926888649" />
+    <state width="604" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600010992594" />
+    <state width="1345" height="218" key="GridCell.Tab.1.bottom" timestamp="1600002023809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="218" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926283751" />
-    <state width="1345" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599830141104" />
-    <state width="604" height="218" key="GridCell.Tab.1.center" timestamp="1599926283751">
+    <state width="1345" height="218" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600002023809" />
+    <state width="1345" height="218" key="GridCell.Tab.1.center" timestamp="1600002023809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="218" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926283751" />
-    <state width="1345" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599830141104" />
-    <state width="604" height="218" key="GridCell.Tab.1.left" timestamp="1599926283751">
+    <state width="1345" height="218" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600002023809" />
+    <state width="1345" height="218" key="GridCell.Tab.1.left" timestamp="1600002023809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="218" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926283751" />
-    <state width="1345" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599830141104" />
-    <state width="604" height="218" key="GridCell.Tab.1.right" timestamp="1599926283751">
+    <state width="1345" height="218" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600002023809" />
+    <state width="1345" height="218" key="GridCell.Tab.1.right" timestamp="1600002023809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="218" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599926283751" />
-    <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599830141104" />
+    <state width="1345" height="218" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600002023809" />
     <state x="492" y="123" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599443205284">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="123" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1599443205284" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599416374796">
+    <state x="676" y="0" width="697" height="735" key="dock-window-1" timestamp="1600003511912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599416374796" />
+    <state x="676" y="0" width="697" height="735" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1600003511912" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599979979019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599979979019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

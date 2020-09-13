@@ -27,4 +27,4 @@ for tc in range(1, t+1):
             if table[r][c] == 1:
                 cnt += 1
                 dfs(r, c)
-    print(cnt)
+    print('#%d %d' %(tc, cnt))
