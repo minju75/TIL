@@ -1,24 +1,26 @@
-def check(num):
-    temp = str(num)
+t = int(input())
+for tc in range(1, t+1):
+    n, m, d = map(int,input().split())
+    ta = [[0]*n for _ in range(n)] # 먼저 n*n 배열로 이루어진 2차원 리스트 생성
+    a = n//2
+    b = []
 
-    for i in range(1, len(temp)):
-        if temp[i-1] > temp[i]:
-            return -1
-    return num
+    for i in range(0, a+1): # ta 안에 들어가야 할 숫자 list
+        b.append(m+(d*i))
 
-T = int(input())
+    for i in range(n):
+        for j in range(n):
+            ta[i][j] = m
 
-for tc in range(1, T+1):
-    N = int(input())
-    nums = list(map(int, input().split()))
-
-    max_value = -1
-    #모든 경우의 수 구하기
-    for i in range(len(nums)-1):
-        for j in range(i+1, len(nums)):
-            tmp = check(nums[i]*nums[j])
-
-            if max_value <tmp :
-                max_value = tmp
-
-    print("#{} {}".format(tc, max_value))
+    for x in range(a , -1, -1):  # 중심에서 바깥쪽으로 채워넣기
+        for i in range(a-x, a+1+x):
+            for j in range(a-x, a+1+x):
+                if ta[i][j] != 0 :
+                    ta[i][j] = b[x]
+    #print(ta)
+    for r in ta:
+        print(*r)
+    # for i in range(n):
+    #     q = sum(ta[i]) #행의 합 구하기
+    #     print(q, end=" ")
+    # print()
