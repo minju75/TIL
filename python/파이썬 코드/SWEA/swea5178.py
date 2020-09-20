@@ -1,3 +1,5 @@
+# 노드의 합
+
 def dfs(idx):
     if idx > n+1: return 0
     if tree[idx]: return tree[idx]

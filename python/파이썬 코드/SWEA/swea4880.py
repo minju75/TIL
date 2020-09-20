@@ -1,42 +1,35 @@
 def game(s, e):
-    if s == e: # 한명인 그룹
+    if s == e :
         return s
 
-    # 절반씩 나누어서 게임 실행
-    # 앞 부분 승자, 뒷부분 승자 각각 구하기
-    # 대결해서 승자를 결정
     center = (s+e)//2
-    v1 = game(s, center) # 승리자
-    v2 = game(center+1, e) #승리자 2
+    a = game(s, center)
+    b = game(center+1, e)
+    a_v = card[a]
+    b_v = card[b]
+    if a_v == 1:
+        if b_v == 2:
+            return b
+        else:
+            return a
 
-    # 두 그룹의 승자 중 이긴 사람을 반환
-    # 1가위 2바위 3보
-    v1_card = cards[v1]
-    v2_card = cards[v2]
-    if v1_card == 1 : # 가위일때
-        if v2_card == 2:
-            return v2
-        else :
-            return v1
+    if a_v == 2:
+        if b_v == 3:
+            return b
+        else:
+            return a
 
-    elif v1_card == 2: # 바위일때
-        if v2_card == 3:
-            return v2
-        else :
-            return v1
-
-    elif v1_card == 3: # 보 일때때
-        if v2_card ==1:
-            return v2
-        else :
-            return v1
-
+    if a_v == 3:
+        if b_v == 1:
+            return b
+        else:
+            return a
 
 
 
 t = int(input())
 for tc in range(1, t+1):
     n = int(input())
-    cards = list(map(int,input().split()))
+    card = list(map(int, input().split()))
     result = game(0, n-1)
-    print("#{} {}".format(tc, result+1))
+    print('#%d %d' %(tc, result+1))

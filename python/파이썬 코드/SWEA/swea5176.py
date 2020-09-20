@@ -1,3 +1,4 @@
+# 이진탐색
 def tree(n):
     global cnt
     if n <= N:
