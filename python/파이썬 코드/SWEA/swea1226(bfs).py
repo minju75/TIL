@@ -23,7 +23,7 @@ def bfs(cr, cc):
 t = int(input())
 for tc in range(1, t + 1):
     n = int(input())
-    maze = [list(input()) for _ in range(n)]
+    maze = [list(input()) for _ in range(n)
     cnt = 0
 
     for i in range(n):
