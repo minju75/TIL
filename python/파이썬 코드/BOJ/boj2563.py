@@ -1,13 +1,13 @@
-n = int(input())
+N = int(input())
 paper = [[0 for _ in range(101)] for _ in range(101)]
 
-for i in range(n):
-    a, b = map(int, input().split())
-    for r in range(a, a+10):
-        for c in range(b, b+10):
-            paper[r][c] = 1
-a = 0
-for row in paper:
-    a += row.count(1)
+for _ in range(N):
+    x, y = map(int, input().split())
+    for i in range(x, x+10):
+        for j in range(y, y+10):
+            paper[i][j] = 1
 
-print(a)
+answer = 0
+for i in paper:
+    answer += i.count(1)
+print(answer)
