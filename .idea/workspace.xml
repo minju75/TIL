@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b2750bd-24af-4957-abc4-91ee5ae31a5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2491.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2628.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/9.21~9.24/달팽이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/9.21~9.24/파리퇴치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2559.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2635.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2563.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2563.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,28 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.boj2628">
-    <configuration name="Algo1_구미_1반_천민주" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드/SWEA" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/SWEA/Algo1_구미_1반_천민주.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.boj2635">
     <configuration name="boj2491" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +64,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2491.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boj2559" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드/BOJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2559.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea5178" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boj2635" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드/SWEA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드/BOJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/SWEA/swea5178.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2635.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boj2635" />
+        <item itemvalue="Python.boj2559" />
         <item itemvalue="Python.boj2628" />
         <item itemvalue="Python.boj2491" />
         <item itemvalue="Python.boj2563" />
-        <item itemvalue="Python.Algo1_구미_1반_천민주" />
-        <item itemvalue="Python.swea5178" />
       </list>
     </recent_temporary>
   </component>
@@ -455,46 +456,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1600650152445" />
-    <state width="659" height="174" key="GridCell.Tab.0.bottom" timestamp="1600796555272">
+    <state width="659" height="171" key="GridCell.Tab.0.bottom" timestamp="1600851690114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822463" />
-    <state width="659" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600796555272" />
-    <state width="659" height="174" key="GridCell.Tab.0.center" timestamp="1600796555272">
+    <state width="659" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600851690114" />
+    <state width="659" height="171" key="GridCell.Tab.0.center" timestamp="1600851690113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822463" />
-    <state width="659" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600796555272" />
-    <state width="659" height="174" key="GridCell.Tab.0.left" timestamp="1600796555271">
+    <state width="659" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600851690113" />
+    <state width="659" height="171" key="GridCell.Tab.0.left" timestamp="1600851690113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822462" />
-    <state width="659" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600796555271" />
-    <state width="659" height="174" key="GridCell.Tab.0.right" timestamp="1600796555272">
+    <state width="659" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600851690113" />
+    <state width="659" height="171" key="GridCell.Tab.0.right" timestamp="1600851690113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822463" />
-    <state width="659" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600796555272" />
-    <state width="1345" height="180" key="GridCell.Tab.1.bottom" timestamp="1600786295485">
+    <state width="659" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600851690113" />
+    <state width="1345" height="180" key="GridCell.Tab.1.bottom" timestamp="1600823427657">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="218" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600268461873" />
-    <state width="1345" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600786295485" />
-    <state width="1345" height="180" key="GridCell.Tab.1.center" timestamp="1600786295485">
+    <state width="1345" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600823427657" />
+    <state width="1345" height="180" key="GridCell.Tab.1.center" timestamp="1600823427657">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="218" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600268461872" />
-    <state width="1345" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600786295485" />
-    <state width="1345" height="180" key="GridCell.Tab.1.left" timestamp="1600786295485">
+    <state width="1345" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600823427657" />
+    <state width="1345" height="180" key="GridCell.Tab.1.left" timestamp="1600823427657">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="218" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600268461872" />
-    <state width="1345" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600786295485" />
-    <state width="1345" height="180" key="GridCell.Tab.1.right" timestamp="1600786295485">
+    <state width="1345" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600823427657" />
+    <state width="1345" height="180" key="GridCell.Tab.1.right" timestamp="1600823427657">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="218" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600268461872" />
-    <state width="1345" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600786295485" />
+    <state width="1345" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600823427657" />
     <state x="63" y="65" key="RollbackChangesDialog" timestamp="1600649459355">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -572,6 +573,10 @@
           <url>file://$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2491.py</url>
           <line>15</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2635.py</url>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
