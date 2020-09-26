@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b2750bd-24af-4957-abc4-91ee5ae31a5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/BOJ2304.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0925(.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0925.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,70 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.BOJ2304">
+  <component name="RunManager" selected="Python.0925(">
+    <configuration name="0925" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/0925.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0925(" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/0925(.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BOJ2304" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,69 +127,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/BOJ/BOJ2304.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="boj2491" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드/BOJ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2491.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="boj2559" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드/BOJ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2559.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="boj2628" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드/BOJ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2628.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0925(" />
+        <item itemvalue="Python.12" />
+        <item itemvalue="Python.0925" />
         <item itemvalue="Python.BOJ2304" />
         <item itemvalue="Python.boj2635" />
-        <item itemvalue="Python.boj2559" />
-        <item itemvalue="Python.boj2628" />
-        <item itemvalue="Python.boj2491" />
       </list>
     </recent_temporary>
   </component>
@@ -454,46 +456,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1600650152445" />
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1600945458039">
+    <state width="1345" height="129" key="GridCell.Tab.0.bottom" timestamp="1601015506379">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822463" />
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600945458039" />
-    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1600945458038">
+    <state width="1345" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601015506379" />
+    <state width="1345" height="129" key="GridCell.Tab.0.center" timestamp="1601015506379">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822463" />
-    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600945458038" />
-    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1600945458038">
+    <state width="1345" height="129" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601015506379" />
+    <state width="1345" height="129" key="GridCell.Tab.0.left" timestamp="1601015506379">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822462" />
-    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600945458038" />
-    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1600945458038">
+    <state width="1345" height="129" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601015506379" />
+    <state width="1345" height="129" key="GridCell.Tab.0.right" timestamp="1601015506379">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822463" />
-    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600945458038" />
-    <state width="1345" height="180" key="GridCell.Tab.1.bottom" timestamp="1600823427657">
+    <state width="1345" height="129" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601015506379" />
+    <state width="1345" height="179" key="GridCell.Tab.1.bottom" timestamp="1601015495348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="218" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600268461873" />
-    <state width="1345" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600823427657" />
-    <state width="1345" height="180" key="GridCell.Tab.1.center" timestamp="1600823427657">
+    <state width="1345" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601015495348" />
+    <state width="1345" height="179" key="GridCell.Tab.1.center" timestamp="1601015495348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="218" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600268461872" />
-    <state width="1345" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600823427657" />
-    <state width="1345" height="180" key="GridCell.Tab.1.left" timestamp="1600823427657">
+    <state width="1345" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601015495348" />
+    <state width="1345" height="179" key="GridCell.Tab.1.left" timestamp="1601015495348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="218" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600268461872" />
-    <state width="1345" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600823427657" />
-    <state width="1345" height="180" key="GridCell.Tab.1.right" timestamp="1600823427657">
+    <state width="1345" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601015495348" />
+    <state width="1345" height="179" key="GridCell.Tab.1.right" timestamp="1601015495348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="218" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600268461872" />
-    <state width="1345" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600823427657" />
+    <state width="1345" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601015495348" />
     <state x="63" y="65" key="RollbackChangesDialog" timestamp="1600649459355">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -506,10 +508,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="676" y="0" width="697" height="735" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1600003511912" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599979979019">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601001637045">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599979979019" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601001637045" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -575,6 +577,111 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2635.py</url>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="132" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
