@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b2750bd-24af-4957-abc4-91ee5ae31a5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2578.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/0925(.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/0925(.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드\BOJ" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.12">
     <configuration name="0925" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -83,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/0925(.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드\BOJ\0925(.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/12.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드\BOJ\12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -578,7 +581,7 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python/12.py</url>
+          <url>file://$PROJECT_DIR$/python/파이썬 코드/BOJ/12.py</url>
           <line>7</line>
           <option name="timeStamp" value="170" />
         </line-breakpoint>
