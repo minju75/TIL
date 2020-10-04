@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b2750bd-24af-4957-abc4-91ee5ae31a5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/python/0925(.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/0925(.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/파이썬 코드/BOJ/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/파이썬 코드/BOJ/12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <recent name="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드\BOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12">
+  <component name="RunManager" selected="Python.12 (1)">
     <configuration name="0925" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +87,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드\BOJ\0925(.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드/BOJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/BOJ/12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,34 +158,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj2635" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/파이썬 코드/BOJ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2635.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12 (1)" />
         <item itemvalue="Python.12" />
         <item itemvalue="Python.0925(" />
         <item itemvalue="Python.0925" />
         <item itemvalue="Python.BOJ2304" />
-        <item itemvalue="Python.boj2635" />
       </list>
     </recent_temporary>
   </component>
@@ -458,26 +458,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1600650152445" />
-    <state width="1345" height="129" key="GridCell.Tab.0.bottom" timestamp="1601117619443">
+    <state width="666" height="129" key="GridCell.Tab.0.bottom" timestamp="1601799485714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822463" />
-    <state width="1345" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601117619443" />
-    <state width="1345" height="129" key="GridCell.Tab.0.center" timestamp="1601117619442">
+    <state width="666" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601799485714" />
+    <state width="666" height="129" key="GridCell.Tab.0.center" timestamp="1601799485714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822463" />
-    <state width="1345" height="129" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601117619442" />
-    <state width="1345" height="129" key="GridCell.Tab.0.left" timestamp="1601117619442">
+    <state width="666" height="129" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601799485714" />
+    <state width="666" height="129" key="GridCell.Tab.0.left" timestamp="1601799485714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822462" />
-    <state width="1345" height="129" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601117619442" />
-    <state width="1345" height="129" key="GridCell.Tab.0.right" timestamp="1601117619442">
+    <state width="666" height="129" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601799485714" />
+    <state width="666" height="129" key="GridCell.Tab.0.right" timestamp="1601799485714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="170" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600354822463" />
-    <state width="1345" height="129" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601117619442" />
+    <state width="666" height="129" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601799485714" />
     <state width="1345" height="179" key="GridCell.Tab.1.bottom" timestamp="1601115834986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -579,11 +579,6 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/python/파이썬 코드/BOJ/boj2635.py</url>
           <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python/파이썬 코드/BOJ/12.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="170" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
