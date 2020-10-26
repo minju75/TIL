@@ -6,24 +6,27 @@ for tc in range(1, t+1):
     board = [[0]*(v+1) for _ in range(v+1)]
     for i in node:
         board[i[0]][i[1]] = 1
-    print(board)
+
     stack = []
+
     while True:
+        cnt = 0
         if 1 in board[s] :
             k = board[s].index(1)
             board[s][k] = 0
             stack.append(s)
             s = k
+            cnt += 1
             if k == g:
-                result = 1
+                cnt += 1
                 break
 
         else:
             if stack == []:
-                result = 0
+                cnt = 0
                 break
 
             else:
                 s = stack.pop(0)
 
-    print('#%d %d' %(tc, result))
+    print('#%d %d' %(tc, cnt))
