@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10월 월말 1번 (2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘 10월 월말.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea 5185.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea 5186.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/swea 1240.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/swea 1240.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <recent name="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10월 월말 1번 (2)">
+  <component name="RunManager" selected="Python.swea 5185">
     <configuration name="알고리즘 10월 월말" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,19 +97,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1023 재귀연습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swea 5185" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA" />
+      <option name="SDK_HOME" value="C:\Users\SAMSUNG\PycharmProjects\algorithm\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/1023 재귀연습.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea 5185.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,40 +118,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea 4875(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swea 5186" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA" />
+      <option name="SDK_HOME" value="C:\Users\SAMSUNG\PycharmProjects\algorithm\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/swea 4875(2).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea4871" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="파이썬 코드" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/swea4871.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea 5186.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.swea 5185" />
+        <item itemvalue="Python.swea 5186" />
         <item itemvalue="Python.10월 월말 1번 (2)" />
         <item itemvalue="Python.알고리즘 10월 월말" />
         <item itemvalue="Python.swea5102(2)" />
-        <item itemvalue="Python.swea4871" />
-        <item itemvalue="Python.swea 4875(2)" />
       </list>
     </recent_temporary>
   </component>
@@ -279,26 +256,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="730" y="0" key="#swea_4875(2)/0.0.1366.728@0.0.1366.728" timestamp="1603631949701" />
+    <state x="389" y="0" key="#swea_5185" timestamp="1603809341893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="#swea_5185/0.0.1366.728@0.0.1366.728" timestamp="1603809341893" />
+    <state x="389" y="0" key="#swea_5186" timestamp="1603809330189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="#swea_5186/0.0.1366.728@0.0.1366.728" timestamp="1603809330189" />
     <state x="730" y="0" key="#알고리즘_10월_월말" timestamp="1603692528819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="730" y="0" key="#알고리즘_10월_월말/0.0.1366.728@0.0.1366.728" timestamp="1603692528819" />
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1603702398061">
+    <state width="1345" height="154" key="GridCell.Tab.0.bottom" timestamp="1603809348860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603702398061" />
-    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1603702398061">
+    <state width="1345" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603809348860" />
+    <state width="1345" height="154" key="GridCell.Tab.0.center" timestamp="1603809348860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603702398061" />
-    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1603702398060">
+    <state width="1345" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603809348860" />
+    <state width="1345" height="154" key="GridCell.Tab.0.left" timestamp="1603809348860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603702398060" />
-    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1603702398061">
+    <state width="1345" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603809348860" />
+    <state width="1345" height="154" key="GridCell.Tab.0.right" timestamp="1603809348860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603702398061" />
+    <state width="1345" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603809348860" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1603702398061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
