@@ -20,14 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10월 월말 1번(기존).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10월 재평가 대비.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ETC/1102 연습문제 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA/swea 5204.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/병합정렬 예시.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/2회차 월말 재평가 1번 나무세기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/4회차 월말 1번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/월말 재평가 2번 풀이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA/행렬찾기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ETC/jungol1337.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jungol 2817.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10월 월말 1번(기존).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10월 재평가 대비.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,22 +310,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="778" y="0" key="#조합_연습/0.0.1366.728@0.0.1366.728" timestamp="1603882001101" />
-    <state width="1345" height="152" key="GridCell.Tab.0.bottom" timestamp="1604314421079">
+    <state width="1345" height="152" key="GridCell.Tab.0.bottom" timestamp="1604455637308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604314421079" />
-    <state width="1345" height="152" key="GridCell.Tab.0.center" timestamp="1604314421078">
+    <state width="1345" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604455637308" />
+    <state width="1345" height="152" key="GridCell.Tab.0.center" timestamp="1604455637308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604314421078" />
-    <state width="1345" height="152" key="GridCell.Tab.0.left" timestamp="1604314421078">
+    <state width="1345" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604455637308" />
+    <state width="1345" height="152" key="GridCell.Tab.0.left" timestamp="1604455637308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604314421078" />
-    <state width="1345" height="152" key="GridCell.Tab.0.right" timestamp="1604314421079">
+    <state width="1345" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604455637308" />
+    <state width="1345" height="152" key="GridCell.Tab.0.right" timestamp="1604455637308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604314421079" />
+    <state width="1345" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604455637308" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1603702398061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
