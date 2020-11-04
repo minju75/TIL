@@ -20,13 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ETC/2회차 월말 재평가 1번 나무세기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ETC/4회차 월말 1번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ETC/월말 재평가 2번 풀이.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA/행렬찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1104 연습문제 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1104 연습문제1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA/swea 1238.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA/swea 5221.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10월 월말 1번(기존).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10월 재평가 대비.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1025 코테.py" beforeDir="false" afterPath="$PROJECT_DIR$/1025 코테.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <recent name="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10월 재평가 대비">
+  <component name="RunManager" selected="Python.1104 연습문제1">
     <configuration name="10월 월말 1번(기존)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jungol 2817" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1104 연습문제1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jungol 2817.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1104 연습문제1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1104 연습문제1" />
         <item itemvalue="Python.10월 재평가 대비" />
         <item itemvalue="Python.10월 월말 1번(기존)" />
         <item itemvalue="Python.swea 5204" />
         <item itemvalue="Python.1102 연습문제 2" />
-        <item itemvalue="Python.jungol 2817" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +237,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="0" key="#1102_연습문제_2/0.0.1366.728@0.0.1366.728" timestamp="1604309052011" />
+    <state x="389" y="0" key="#1104_연습문제1" timestamp="1604464364466">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="#1104_연습문제1/0.0.1366.728@0.0.1366.728" timestamp="1604464364466" />
     <state x="309" y="42" key="#Inspections" timestamp="1603701385734">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -310,22 +313,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="778" y="0" key="#조합_연습/0.0.1366.728@0.0.1366.728" timestamp="1603882001101" />
-    <state width="1345" height="152" key="GridCell.Tab.0.bottom" timestamp="1604455637308">
+    <state width="659" height="154" key="GridCell.Tab.0.bottom" timestamp="1604483255347">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604455637308" />
-    <state width="1345" height="152" key="GridCell.Tab.0.center" timestamp="1604455637308">
+    <state width="659" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604483255347" />
+    <state width="659" height="154" key="GridCell.Tab.0.center" timestamp="1604483255346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604455637308" />
-    <state width="1345" height="152" key="GridCell.Tab.0.left" timestamp="1604455637308">
+    <state width="659" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604483255346" />
+    <state width="659" height="154" key="GridCell.Tab.0.left" timestamp="1604483255346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604455637308" />
-    <state width="1345" height="152" key="GridCell.Tab.0.right" timestamp="1604455637308">
+    <state width="659" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604483255346" />
+    <state width="659" height="154" key="GridCell.Tab.0.right" timestamp="1604483255346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604455637308" />
+    <state width="659" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604483255346" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1603702398061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -342,5 +345,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603702398061" />
+    <state x="275" y="95" width="513" height="525" key="dock-window-1" timestamp="1604478698123">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" width="513" height="525" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1604478698123" />
   </component>
 </project>
