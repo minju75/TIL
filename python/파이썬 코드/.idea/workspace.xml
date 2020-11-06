@@ -20,12 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1104 연습문제 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1104 연습문제1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SWEA/swea 1238.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SWEA/swea 5221.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1025 코테.py" beforeDir="false" afterPath="$PROJECT_DIR$/1025 코테.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1104 연습문제 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1104 연습문제1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
