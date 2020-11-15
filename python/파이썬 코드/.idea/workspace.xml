@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/boj 4963(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/boj 4963.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/boj 4963(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/boj 4963(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/boj 4963.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/boj 4963.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/boj1012.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/boj1012.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <recent name="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.boj 4963(2)">
+  <component name="RunManager" selected="Python.boj 4963">
     <configuration name="Algo1_구미_1반_천민주" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea 5247" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boj1012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\SAMSUNG\PycharmProjects\algorithm\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/swea 5247.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/boj1012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.boj 4963(2)" />
         <item itemvalue="Python.boj 4963" />
+        <item itemvalue="Python.boj1012" />
+        <item itemvalue="Python.boj 4963(2)" />
         <item itemvalue="Python.Algo2_구미_1반_천민주" />
         <item itemvalue="Python.Algo1_구미_1반_천민주" />
-        <item itemvalue="Python.swea 5247" />
       </list>
     </recent_temporary>
   </component>
@@ -246,6 +247,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1603701385734" />
+    <state x="730" y="0" key="#boj1012" timestamp="1605431178798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="730" y="0" key="#boj1012/0.0.1366.728@0.0.1366.728" timestamp="1605431178798" />
     <state x="778" y="0" key="#boj_2326" timestamp="1603626940144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -346,42 +351,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="778" y="0" key="#조합_연습/0.0.1366.728@0.0.1366.728" timestamp="1603882001101" />
-    <state width="1345" height="157" key="GridCell.Tab.0.bottom" timestamp="1605365326802">
+    <state width="1345" height="165" key="GridCell.Tab.0.bottom" timestamp="1605454488403">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605365326801" />
-    <state width="1345" height="157" key="GridCell.Tab.0.center" timestamp="1605365326800">
+    <state width="1345" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605454488403" />
+    <state width="1345" height="165" key="GridCell.Tab.0.center" timestamp="1605454488402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="157" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605365326800" />
-    <state width="1345" height="157" key="GridCell.Tab.0.left" timestamp="1605365326800">
+    <state width="1345" height="165" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605454488402" />
+    <state width="1345" height="165" key="GridCell.Tab.0.left" timestamp="1605454488402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="157" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605365326800" />
-    <state width="1345" height="157" key="GridCell.Tab.0.right" timestamp="1605365326801">
+    <state width="1345" height="165" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605454488402" />
+    <state width="1345" height="165" key="GridCell.Tab.0.right" timestamp="1605454488403">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605365326801" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1603702398061">
+    <state width="1345" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605454488403" />
+    <state width="659" height="223" key="GridCell.Tab.1.bottom" timestamp="1605427767639">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603702398061" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1603702398061">
+    <state width="659" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605427767639" />
+    <state width="659" height="223" key="GridCell.Tab.1.center" timestamp="1605427767637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603702398061" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1603702398061">
+    <state width="659" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605427767637" />
+    <state width="659" height="223" key="GridCell.Tab.1.left" timestamp="1605427767636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603702398061" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1603702398061">
+    <state width="659" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605427767636" />
+    <state width="659" height="223" key="GridCell.Tab.1.right" timestamp="1605427767638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603702398061" />
-    <state x="586" y="112" width="677" height="539" key="dock-window-1" timestamp="1604885139767">
+    <state width="659" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605427767638" />
+    <state x="-7" y="0" width="697" height="735" key="dock-window-1" timestamp="1605454949381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="586" y="112" width="677" height="539" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1604885139767" />
+    <state x="-7" y="0" width="697" height="735" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1605454949381" />
     <state x="493" y="46" width="677" height="659" maximized="true" key="dock-window-2" timestamp="1604885139767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

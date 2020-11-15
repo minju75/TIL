@@ -2,17 +2,15 @@ import sys
 sys.setrecursionlimit(10000)
 
 def dfs(r, c):
-    global ta, M, N
-    dr = [0, 0, -1, 1] # 상하좌우
+    dr = [0, 0, -1, 1]
     dc = [-1, 1, 0, 0]
-    table[r][c] = -1 #방문 한 것을 확인하였으니 -1로 체크
+    table[r][c] = -1
     for q in range(4):
-        cr, cc = r+dr[q], c+dc[q] #현재의 좌표
-        if cc <= -1 or cc >= N or cr <= -1 or cr >= M :
-             continue
-        if table[cr][cc] == 1:
-            table[cr][cc] = 0
-            dfs(cr, cc)
+        cr, cc = r+dr[q], c+dc[q]
+        if 0 <= cc < N and 0 <= cr < M :
+            if table[cr][cc] == 1:
+                table[cr][cc] = 0
+                dfs(cr, cc)
 
 t = int(input())
 for tc in range(1, t+1):
@@ -27,4 +25,4 @@ for tc in range(1, t+1):
             if table[r][c] == 1:
                 cnt += 1
                 dfs(r, c)
-    print('#%d %d' %(tc, cnt))
+    print(cnt)
