@@ -1,22 +1,34 @@
+def snail(cr, cc):
+    global k, n
+    global board
+    dr = [1, 0, -1, 0]
+    dc = [0, 1, 0, -1]
+    while board[n//2][n//2] == 0:
+        for i in range(4):
+            nr = cr + dr[i]
+            nc = cc + dc[i]
+            while 0 <= nr < n and 0 <= nc < n and board[nr][nc] == 0:
+                k -= 1
+                board[nr][nc] = k
+                nr += dr[i]
+                nc += dc[i]
+            nr -= dr[i]
+            nc -= dc[i]
+            cr,cc=nr,nc
+
+
+
 n = int(input())
-k = int(input())
-table = [[0]*n for _ in range(n)]
-num = n**2
-r,c = 0,0
-move = [(1,0),(0,1),(-1,0),(0,-1)]
-table[r][c] = num
-num -= 1
-while num >= 1:
-    for dr, dc in move:
-        while 0 <= r + dr < n and 0 <= c + dc < n and table[r + dr][c + dc] == 0:
-            table[r+dr][c+dc] = num
-            num -= 1
-            r += dr
-            c += dc
-for r in table:
-    print(*r)
+m = int(input())
+board = [[0]*n for _ in range(n)]
+k = n*n
+r, c = 0, 0
+board[r][c] = k
+snail(r, c)
+for i in board:
+    print(*i)
 
 for i in range(n):
     for j in range(n):
-        if table[i][j] == k:
-           print(i+1, j+1)
+        if board[i][j] == m:
+            print(i+1, j+1)
