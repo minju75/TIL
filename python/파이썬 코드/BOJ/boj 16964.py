@@ -8,5 +8,5 @@ for i in range(n-1):
         left[li[i][0]] = li[i][1]
     else:
         right[li[i][0]] = li[i][1]
-print(left)
-print(right)
+# print(left)
+# print(right)
