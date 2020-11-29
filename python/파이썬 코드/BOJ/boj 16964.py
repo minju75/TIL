@@ -7,6 +7,4 @@ for i in range(n-1):
     if left[li[i][0]] == 0:
         left[li[i][0]] = li[i][1]
     else:
-        right[li[i][0]] = li[i][1]
-# print(left)
-# print(right)
+
