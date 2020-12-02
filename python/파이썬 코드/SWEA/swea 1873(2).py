@@ -1,7 +1,7 @@
 tank = ['^', 'v', '<', '>']
 dir_dict = {'U': 0, 'D': 1, 'L': 2, 'R': 3}
 dr = [-1, 1, 0, 0]
-dc = [0, 0 , -1, 1]
+dc = [0, 0, -1, 1]
 def search_tank():
     for i in range(h):
         for j in range(w):
@@ -26,7 +26,7 @@ for tc in range(1, int(input())+1):
     #             break
     #     if r != -1 :
     #         break
-    r, c, dir = seach_tank()
+    r, c, dir = search_tank()
     # 2 명령어 처리
     for cmd in cmd_list:
 
@@ -52,7 +52,7 @@ for tc in range(1, int(input())+1):
             nr = r + dr[dir]
             nc = c + dc[dir]
 
-            if 0 <= nr < h and 0 <= nc < w and game[nr][nc]=='.':
+            if 0 <= nr < h and 0 <= nc < w and game[nr][nc] == '.':
                 game[nr][nc] = tank[dir]
                 game[r][c] = '.'
                 r, c, = nr, nc #현재 탱크의 위치
