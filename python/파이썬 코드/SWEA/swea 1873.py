@@ -1,5 +1,5 @@
-dr = [0,0,0,-1,1]
-dc = [0,-1,1,0,0]
+dr = [0, 0, 0, -1, 1]
+dc = [0, -1, 1, 0, 0]
 def shoot(r, c) :
     global map_2
     global h, w
@@ -54,12 +54,12 @@ def play(r, c, start):
 
 
 
-t = int(input())
+t = int(input()) #테스트 케이스의 갯수
 for tc in range(1, t+1):
-    h, w = map(int, input().split())
-    map_2 = [list(str(input())) for _ in range(h)]
-    n = int(input())
-    move = list(str(input()))
+    h, w = map(int, input().split()) # 높이와 넓이
+    map_2 = [list(str(input())) for _ in range(h)] #게임맵
+    n = int(input()) #입력의 갯수
+    move = list(str(input())) #문자열
 # print(map)
 # print(move)
     for a in range(h):
