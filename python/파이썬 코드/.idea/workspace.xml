@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/boj 2606(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/boj 2606.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA/swea 2115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA/swea 5215.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj.etc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/boj 16964.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/boj 16964.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/swea 1873(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/swea 1873(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/swea 1873.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/swea 1873.py" afterDir="false" />
-    </list>
+    <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
