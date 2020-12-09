@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="" />
+    <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/boj 1325.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/boj 1325.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +56,28 @@
       <recent name="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.boj.etc">
+  <component name="RunManager" selected="Python.boj 1325">
+    <configuration name="boj 1325" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="파이썬 코드" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/boj 1325.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="boj 2606" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,27 +112,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj.etc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea 1868" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="파이썬 코드" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\PycharmProjects\algorithm\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/swea 1868.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boj 1325" />
         <item itemvalue="Python.boj.etc" />
         <item itemvalue="Python.swea 1873" />
         <item itemvalue="Python.boj 2606" />
         <item itemvalue="Python.swea 1868(틀림)" />
-        <item itemvalue="Python.swea 1868" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +258,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="730" y="0" key="#boj1913/0.0.1366.728@0.0.1366.728" timestamp="1605522262972" />
+    <state x="730" y="0" key="#boj_1325" timestamp="1607492346518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="730" y="0" key="#boj_1325/0.0.1366.728@0.0.1366.728" timestamp="1607492346518" />
     <state x="730" y="0" key="#boj_16964" timestamp="1605702864859">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -375,22 +382,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="778" y="0" key="#조합_연습/0.0.1366.728@0.0.1366.728" timestamp="1603882001101" />
-    <state width="661" height="226" key="GridCell.Tab.0.bottom" timestamp="1607006295373">
+    <state width="661" height="235" key="GridCell.Tab.0.bottom" timestamp="1607520656353">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607006295373" />
-    <state width="661" height="226" key="GridCell.Tab.0.center" timestamp="1607006295372">
+    <state width="661" height="235" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607520656353" />
+    <state width="661" height="235" key="GridCell.Tab.0.center" timestamp="1607520656352">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607006295372" />
-    <state width="661" height="226" key="GridCell.Tab.0.left" timestamp="1607006295371">
+    <state width="661" height="235" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607520656352" />
+    <state width="661" height="235" key="GridCell.Tab.0.left" timestamp="1607520656351">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607006295371" />
-    <state width="661" height="226" key="GridCell.Tab.0.right" timestamp="1607006295372">
+    <state width="661" height="235" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607520656351" />
+    <state width="661" height="235" key="GridCell.Tab.0.right" timestamp="1607520656352">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607006295372" />
+    <state width="661" height="235" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607520656352" />
     <state width="661" height="226" key="GridCell.Tab.1.bottom" timestamp="1607006295375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
