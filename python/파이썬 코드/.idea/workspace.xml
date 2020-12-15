@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boj 17391 (지은).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj 17391(틀림).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/boj 16948.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boj 17391.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/파이썬 코드.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/파이썬 코드.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <recent name="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.boj 17391(틀림)">
+  <component name="RunManager" selected="Python.boj 16948">
     <configuration name="JUNGOL 1106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="JUNGOL 4189" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="JUNGOL 4189" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,6 +113,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JUNGOL 4189.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boj 16948" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="파이썬 코드" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/boj 16948.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boj 16948" />
         <item itemvalue="Python.boj 17391(틀림)" />
         <item itemvalue="Python.boj 3187" />
         <item itemvalue="Python.JUNGOL 1889" />
         <item itemvalue="Python.JUNGOL 1106" />
-        <item itemvalue="Python.JUNGOL 4189" />
       </list>
     </recent_temporary>
   </component>
@@ -304,6 +324,10 @@
     </state>
     <state x="389" y="0" key="#boj_4963(2)/0.0.1366.728@0.0.1366.728" timestamp="1605365285200" />
     <state x="730" y="0" key="#boj_4963/0.0.1366.728@0.0.1366.728" timestamp="1605342859584" />
+    <state x="274" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608034534375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1608034534375" />
     <state x="789" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603692506058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -404,38 +428,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="778" y="0" key="#조합_연습/0.0.1366.728@0.0.1366.728" timestamp="1603882001101" />
-    <state width="1345" height="218" key="GridCell.Tab.0.bottom" timestamp="1607955064379">
+    <state width="1345" height="220" key="GridCell.Tab.0.bottom" timestamp="1608038190273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="218" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607955064379" />
-    <state width="1345" height="218" key="GridCell.Tab.0.center" timestamp="1607955064377">
+    <state width="1345" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608038190273" />
+    <state width="1345" height="220" key="GridCell.Tab.0.center" timestamp="1608038190271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="218" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607955064377" />
-    <state width="1345" height="218" key="GridCell.Tab.0.left" timestamp="1607955064376">
+    <state width="1345" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608038190271" />
+    <state width="1345" height="220" key="GridCell.Tab.0.left" timestamp="1608038190270">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="218" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607955064376" />
-    <state width="1345" height="218" key="GridCell.Tab.0.right" timestamp="1607955064378">
+    <state width="1345" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608038190270" />
+    <state width="1345" height="220" key="GridCell.Tab.0.right" timestamp="1608038190272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="218" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607955064378" />
-    <state width="1345" height="218" key="GridCell.Tab.1.bottom" timestamp="1607955064382">
+    <state width="1345" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608038190272" />
+    <state width="1345" height="220" key="GridCell.Tab.1.bottom" timestamp="1608038190277">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="218" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607955064382" />
-    <state width="1345" height="218" key="GridCell.Tab.1.center" timestamp="1607955064380">
+    <state width="1345" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608038190277" />
+    <state width="1345" height="220" key="GridCell.Tab.1.center" timestamp="1608038190275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="218" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607955064380" />
-    <state width="1345" height="218" key="GridCell.Tab.1.left" timestamp="1607955064380">
+    <state width="1345" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1608038190275" />
+    <state width="1345" height="220" key="GridCell.Tab.1.left" timestamp="1608038190274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="218" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607955064380" />
-    <state width="1345" height="218" key="GridCell.Tab.1.right" timestamp="1607955064381">
+    <state width="1345" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1608038190274" />
+    <state width="1345" height="220" key="GridCell.Tab.1.right" timestamp="1608038190276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="218" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607955064381" />
+    <state width="1345" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1608038190276" />
     <state x="-7" y="0" width="697" height="735" key="dock-window-1" timestamp="1605454949381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -444,10 +468,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="493" y="46" width="677" height="659" maximized="true" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1604885139767" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604882224946">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1608034607862">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604882224946" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1608034607862" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -477,15 +501,61 @@
           <line>23</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/boj 16948.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/boj 16948.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/boj 16948.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/boj 16948.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/boj 16948.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/boj 16948.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/boj 16948.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/boj 16948.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/boj 16948.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ/boj 16948.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="cnt" language="Python" />
-        <watch expression="q" />
-        <watch expression="(nr, nc)" language="Python" />
-        <watch expression="total" language="Python" />
-        <watch expression="a_max" language="Python" />
+        <watch expression="(nx, ny)" language="Python" />
       </configuration>
     </watches-manager>
   </component>
