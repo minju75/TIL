@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boj 7569(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj 7569(틀림).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj 14248.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj 2178.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/boj 16948.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/boj 16948.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,28 +57,7 @@
       <recent name="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.boj 7569(틀림)">
-    <configuration name="JUNGOL 1889" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="파이썬 코드" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JUNGOL 1889.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.boj 2178">
     <configuration name="JUNGOL 4189" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +71,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JUNGOL 4189.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boj 14248" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="파이썬 코드" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 14248.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,19 +142,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj 3187" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boj 2178" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\SAMSUNG\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 3187.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 2178.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boj 2178" />
+        <item itemvalue="Python.boj 14248" />
         <item itemvalue="Python.boj 7569(틀림)" />
         <item itemvalue="Python.boj 16948" />
         <item itemvalue="Python.boj 17391(틀림)" />
-        <item itemvalue="Python.boj 3187" />
-        <item itemvalue="Python.JUNGOL 1889" />
       </list>
     </recent_temporary>
   </component>
@@ -429,22 +428,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="778" y="0" key="#조합_연습/0.0.1366.728@0.0.1366.728" timestamp="1603882001101" />
-    <state width="1345" height="220" key="GridCell.Tab.0.bottom" timestamp="1608120669334">
+    <state width="659" height="59" key="GridCell.Tab.0.bottom" timestamp="1608274167871">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608120669334" />
-    <state width="1345" height="220" key="GridCell.Tab.0.center" timestamp="1608120669333">
+    <state width="659" height="59" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608274167871" />
+    <state width="659" height="59" key="GridCell.Tab.0.center" timestamp="1608274167870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608120669333" />
-    <state width="1345" height="220" key="GridCell.Tab.0.left" timestamp="1608120669332">
+    <state width="659" height="59" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608274167870" />
+    <state width="659" height="59" key="GridCell.Tab.0.left" timestamp="1608274167869">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608120669332" />
-    <state width="1345" height="220" key="GridCell.Tab.0.right" timestamp="1608120669333">
+    <state width="659" height="59" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608274167869" />
+    <state width="659" height="59" key="GridCell.Tab.0.right" timestamp="1608274167871">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608120669333" />
+    <state width="659" height="59" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608274167871" />
     <state width="1345" height="220" key="GridCell.Tab.1.bottom" timestamp="1608120669338">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
