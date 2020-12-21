@@ -20,12 +20,6 @@ def bfs(x, y):
                 if board[nx][ny] != '#' and visited[nx][ny] == 0: # 새로운 좌표의 위치가 울타리가 아니면서 방문한 적이 없을 때
                     visited[nx][ny] = 1 # 방문 표시
                     q.append([nx, ny])
-
-    if v_cnt >= k_cnt:
-        k_cnt = 0
-    else:
-        v_cnt = 0
-
     return [v_cnt, k_cnt]
 
 r, c = map(int, input().split())
