@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boj 1068(지은).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj 14425 (지은).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj 14425.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bisect 예시.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj 4256.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj 5639(태완).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj 5639.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알고스팟 TRAVERSAL 트리 순회 순서 변경.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boj 1068.py" beforeDir="false" afterPath="$PROJECT_DIR$/boj 1068.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,28 @@
       <recent name="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.boj 14425">
+  <component name="RunManager" selected="Python.bisect 예시">
+    <configuration name="A번_끝말잇기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="파이썬 코드" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A번_끝말잇기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="JUNGOL 4189" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj 1068" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bisect 예시" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 1068.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bisect 예시.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj 14425" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boj 4256" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 14425.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 4256.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj 15900" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boj 4256(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 15900.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 4256(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj 15900(유리)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boj 5639(태완)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,28 +178,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 15900(유리).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="boj 1991" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="파이썬 코드" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 1991.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj 5639(태완).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.boj 14425" />
-        <item itemvalue="Python.boj 1068" />
-        <item itemvalue="Python.boj 15900(유리)" />
-        <item itemvalue="Python.boj 15900" />
-        <item itemvalue="Python.boj 1991" />
+        <item itemvalue="Python.bisect 예시" />
+        <item itemvalue="Python.A번_끝말잇기" />
+        <item itemvalue="Python.boj 4256(2)" />
+        <item itemvalue="Python.boj 4256" />
+        <item itemvalue="Python.boj 5639(태완)" />
       </list>
     </recent_temporary>
   </component>
@@ -430,38 +431,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="778" y="0" key="#조합_연습/0.0.1366.728@0.0.1366.728" timestamp="1603882001101" />
-    <state width="1345" height="162" key="GridCell.Tab.0.bottom" timestamp="1609237741386">
+    <state width="648" height="164" key="GridCell.Tab.0.bottom" timestamp="1609420324097">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609237741386" />
-    <state width="1345" height="162" key="GridCell.Tab.0.center" timestamp="1609237741385">
+    <state width="648" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609420324097" />
+    <state width="648" height="164" key="GridCell.Tab.0.center" timestamp="1609420324095">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609237741385" />
-    <state width="1345" height="162" key="GridCell.Tab.0.left" timestamp="1609237741384">
+    <state width="648" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609420324095" />
+    <state width="648" height="164" key="GridCell.Tab.0.left" timestamp="1609420324094">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609237741384" />
-    <state width="1345" height="162" key="GridCell.Tab.0.right" timestamp="1609237741385">
+    <state width="648" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609420324094" />
+    <state width="648" height="164" key="GridCell.Tab.0.right" timestamp="1609420324096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609237741385" />
-    <state width="1345" height="220" key="GridCell.Tab.1.bottom" timestamp="1608700146621">
+    <state width="648" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609420324096" />
+    <state width="661" height="219" key="GridCell.Tab.1.bottom" timestamp="1609412017065">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608700146621" />
-    <state width="1345" height="220" key="GridCell.Tab.1.center" timestamp="1608700146621">
+    <state width="661" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609412017065" />
+    <state width="661" height="219" key="GridCell.Tab.1.center" timestamp="1609412017065">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1608700146621" />
-    <state width="1345" height="220" key="GridCell.Tab.1.left" timestamp="1608700146621">
+    <state width="661" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1609412017065" />
+    <state width="661" height="219" key="GridCell.Tab.1.left" timestamp="1609412017064">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1608700146621" />
-    <state width="1345" height="220" key="GridCell.Tab.1.right" timestamp="1608700146621">
+    <state width="661" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1609412017064" />
+    <state width="661" height="219" key="GridCell.Tab.1.right" timestamp="1609412017065">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1608700146621" />
+    <state width="661" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1609412017065" />
+    <state x="492" y="96" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609410090362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="96" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1609410090361" />
     <state x="-7" y="0" width="697" height="735" key="dock-window-1" timestamp="1605454949381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
