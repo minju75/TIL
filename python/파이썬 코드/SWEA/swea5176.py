@@ -7,7 +7,7 @@ def tree(n):
         cnt += 1 #카운트에 증가
         tree(n*2 + 1) # 우측
 
-t = int(input())
+t = int(input()) # 테스트케이스의 갯수
 for tc in range(1, t+1):
     N = int(input())
     m_tree = [0 for _ in range(N+1)]
