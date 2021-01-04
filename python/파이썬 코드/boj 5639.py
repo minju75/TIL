@@ -11,7 +11,6 @@ def postorder(start, end):
     postorder(start+1, division-1) # 분할 왼쪽
     postorder(division, end) # 분할 오른쪽
     print(post[start])
-
 import sys
 sys.setrecursionlimit(10**6)
 
