@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42cd14f-b623-4403-b4da-3d16846dc639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boj 15810(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj 15810.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj 1715.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boj 1715.py" beforeDir="false" afterPath="$PROJECT_DIR$/boj 1715.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <recent name="C:\Users\SAMSUNG\Desktop\ssafy 파이썬(7.16~)\TIL\python\파이썬 코드" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.boj 1715">
+  <component name="RunManager" selected="Python.boj 15810(2)">
     <configuration name="JUNGOL 4189" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="파이썬 코드" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,8 +185,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.boj 1715" />
         <item itemvalue="Python.boj 15810(2)" />
+        <item itemvalue="Python.boj 1715" />
         <item itemvalue="Python.boj 5639(지은2)" />
         <item itemvalue="Python.boj 5639(3)" />
         <item itemvalue="Python.boj 1316" />
@@ -429,22 +427,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="778" y="0" key="#조합_연습/0.0.1366.728@0.0.1366.728" timestamp="1603882001101" />
-    <state width="659" height="165" key="GridCell.Tab.0.bottom" timestamp="1609846417983">
+    <state width="1345" height="165" key="GridCell.Tab.0.bottom" timestamp="1609933999869">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609846417983" />
-    <state width="659" height="165" key="GridCell.Tab.0.center" timestamp="1609846417982">
+    <state width="1345" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609933999869" />
+    <state width="1345" height="165" key="GridCell.Tab.0.center" timestamp="1609933999868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="165" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609846417982" />
-    <state width="659" height="165" key="GridCell.Tab.0.left" timestamp="1609846417982">
+    <state width="1345" height="165" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609933999868" />
+    <state width="1345" height="165" key="GridCell.Tab.0.left" timestamp="1609933999867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="165" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609846417982" />
-    <state width="659" height="165" key="GridCell.Tab.0.right" timestamp="1609846417982">
+    <state width="1345" height="165" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609933999867" />
+    <state width="1345" height="165" key="GridCell.Tab.0.right" timestamp="1609933999868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609846417982" />
+    <state width="1345" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609933999868" />
     <state width="1345" height="215" key="GridCell.Tab.1.bottom" timestamp="1609758467198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

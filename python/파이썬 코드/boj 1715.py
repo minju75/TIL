@@ -5,8 +5,8 @@ card_li = []
 for _ in range(n):
     heapq.heappush(card_li, int(input()))
 
-if len(card_li) == 1:
-    print(0)
+if len(card_li) == 0:
+
 else:
     total = 0
     while len(card_li) > 1: #  아니면 sort 정렬?
