@@ -16,7 +16,7 @@ for i in range(k):
     heapq.heappush(pre, beer[i][0]) # 선호도 입력
     p_le += beer[i][0]
     alc += beer[i][1]
-    print(pre)
+    # print(pre)
     if len(pre) == n:
         if p_le >= m: # 맥주의 선호도가 채워야하는 선호도의 합보다 크거나 같으면
             check = True
